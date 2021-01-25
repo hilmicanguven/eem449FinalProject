@@ -16,9 +16,11 @@ This repository includes real-time rain detector by using rain sensor and contro
 1. Ethernet cable to connect internet 
 
 ## Demo and Video
-For Sensor usage -> [My Drive Link](https://drive.google.com/file/d/1y2vRh_AvzKrF7cOgIhf9b8NvS599G6lr/view?usp=sharing).
-For Demo of the project -> [My Drive Link](https://drive.google.com/file/d/15sel_Y6Z5ZUKQOO5Tl_mMV7Vu3pUtXId/view?usp=sharing).
+For Sensor usage -> [My Drive Link](https://drive.google.com/file/d/1y2vRh_AvzKrF7cOgIhf9b8NvS599G6lr/view?usp=sharing)
 
+For Demo of the project -> [My Drive Link](https://drive.google.com/file/d/15sel_Y6Z5ZUKQOO5Tl_mMV7Vu3pUtXId/view?usp=sharing)
+
+Detailed explanation of Code -> [My Drive Link](https://drive.google.com/file/d/1mxsVL5ohmNtZQsLqZTa0g8dkRR7u_QNQ/view?usp=sharing)
 ##
 
 
