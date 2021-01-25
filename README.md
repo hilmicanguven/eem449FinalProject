@@ -2,7 +2,7 @@
 Rain Detector based on Rain Sensor &amp; Weatherbit API
 This repository includes real-time rain detector by using rain sensor and controlled by the weatherbit API. It is implemented on Texas Intruments Tiva C Series TM4C1294 Connected Launcpad in C language within the Eskişehir Technical University and EEM449 Embedded System Design Course
 
-##What we will do
+## What we will do
 1. Read analog rain sensor value over the GPIO pin
 2. Connect weatherbit API, reach the status of current weather in JSON format
 3. If both states the weather is rainy, get time current time from NTP server and send message to the TCP server
