@@ -20,7 +20,7 @@ For Sensor usage -> [My Drive Link](https://drive.google.com/file/d/1y2vRh_AvzKr
 
 For Demo of the project -> [My Drive Link](https://drive.google.com/file/d/15sel_Y6Z5ZUKQOO5Tl_mMV7Vu3pUtXId/view?usp=sharing)
 
-Detailed explanation of Code -> [My Drive Link](https://drive.google.com/file/d/1mxsVL5ohmNtZQsLqZTa0g8dkRR7u_QNQ/view?usp=sharing)
+Detailed explanation of Code (Firs Part) -> [My Drive Link](https://drive.google.com/file/d/1mxsVL5ohmNtZQsLqZTa0g8dkRR7u_QNQ/view?usp=sharing)
 ##
 
 
