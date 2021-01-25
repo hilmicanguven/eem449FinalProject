@@ -11,7 +11,7 @@ This repository includes real-time rain detector by using rain sensor and contro
 1. Code Composer Studio (recommended version 10.0<)
 2. EK-TM4C1294XL Launcpad - TI-RTOS for Tiva C
 1. Rain Sensor and at least 3 jumper cable
-1. Weatherbir API Key (it is free up to 1000 cal per a day)
+1. Weatherbir API Key (it is free up to 1000 call per a day)
 1. Hercules (Make TCP Server)
 1. Ethernet cable to connect internet 
 
